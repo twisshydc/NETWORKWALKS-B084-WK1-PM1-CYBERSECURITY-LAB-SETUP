@@ -1,4 +1,4 @@
-<img width="1346" height="616" alt="image" src="https://github.com/user-attachments/assets/48433ca3-d9cd-41d0-955b-0f6ee9aad26a" /># NETWORKWALKS-B084-WK1-PM1-CYBERSECURITY-LAB-SETUP
+# NETWORKWALKS-B084-WK1-PM1-CYBERSECURITY-LAB-SETUP
 
 
 Good Day Everyone my name is Trisha Dela Cruz and this week here is the finished task I have done so far.
@@ -34,7 +34,7 @@ The VM is intended for coursework and authorized practice. It can support learni
 
   
 🏗️ Lab Architecture
-
+<img width="1346" height="616" alt="image" src="https://github.com/user-attachments/assets/48433ca3-d9cd-41d0-955b-0f6ee9aad26a" />
 
 
 
