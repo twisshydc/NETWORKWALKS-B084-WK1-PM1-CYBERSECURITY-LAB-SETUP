@@ -107,7 +107,7 @@ I opened the network icon’s menu, selected **Edit Connections**, and entered t
 The final step is to take a snapshot of the virtual machine. This saves a restore point so I can return to this setup if I make changes or run into problems later.
 
 
-![Kali snapshot](images/kalisnapshots.png)
+![Kali snapshot](images/kalisnapshot.png)
 
 ## 🔎 Lab Verification
 
